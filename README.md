@@ -15,8 +15,8 @@ Make sure you have the following installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/express-ts-blog-adminjs.git
-cd express-ts-blog-adminjs
+git clone https://github.com/isaacpontes/adminjs7-express-mongodb-template.git
+cd adminjs7-express-mongodb-template
 ```
 
 ### Install Dependencies
@@ -43,7 +43,7 @@ Run `npm run build`.
 
 ### Run the Production Server
 
-Execute `npm start` to compile the TypeScript code into JavaScript and start the server in production mode. The server will be accessible at http://localhost:3000.
+Execute `npm start` after compiling the TypeScript code into JavaScript to start the server in production mode. The server will be accessible at http://localhost:3000.
 
 ## Configuration
 
